@@ -1,4 +1,4 @@
-Landing Page para Loja de Games
+Landing Page 
 
 Este é um projeto de landing page que criei como parte do meu processo de aprendizado para manipular HTML e CSS. Esta página de destino é um exemplo simples de como criar uma interface atraente para os visitantes.
 
